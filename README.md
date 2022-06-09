@@ -10,19 +10,21 @@
  💬 Ask me about ... HTML, CSS, JavaScript...
  <br>
 
-<img  width="260" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><br>
+<img  width="260" src="https://user-images.githubusercontent.com/98092597/172932109-5b5aba30-52fc-463b-9bec-14b7ca8d0db4.png"><br>
 <img src="https://komarev.com/ghpvc/?username=wendelschimitz10&label=Profile%20views&color=0e75b6&style=flat" alt="wendelschimitz10" /> 
 
  <br>
-## 📫 How to reach me
+ 
+ ## 📫 How to reach me
 
 <a href="mailto:w10schimitz@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
-<a href="https://www.linkedin.com/in/wendel-ccomp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/wendel-ccomp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/wendel.ccomp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/wendel.ccomp/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <br>
 <a href="https://github.com/wendelschimitz10"><img src="https://img.shields.io/github/followers/wendelschimitz10?label=follow&style=social"></a>
-         
+<a href="https://www.youtube.com/channel/UCEZgWavfBlTWV-nmxnvdY_g?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCEZgWavfBlTWV-nmxnvdY_g?label=Wendel Dev&style=social"></a>
+      
 <br>
   
     
@@ -30,7 +32,6 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=wendelschimitz10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true "/>
    
-  
 ## 👨‍💻 Tech Stack I am Familiar With
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -53,6 +54,6 @@
 
 <!--- Snake: --->
 
-<img src="https://github.com/wendelschimitz10/wendelschimitz10/raw/output/github-contribution-grid-snake.svg" alt="snake">
+![Snake animation](https://github.com/wendelschimitz10/wendelschimitz10/blob/output/github-contribution-grid-snake.svg)
 
 </div>
