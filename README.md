@@ -10,7 +10,7 @@
  💬 Ask me about ... HTML, CSS, JavaScript...
  <br>
 
-<img  width="260" src="https://user-images.githubusercontent.com/98092597/172932109-5b5aba30-52fc-463b-9bec-14b7ca8d0db4.png"><br>
+<img  width="260" src="https://user-images.githubusercontent.com/98092597/173888205-3b08eb6d-d829-43cc-bf57-e6ba15a3fd9e.jpg"><br>
 <img src="https://komarev.com/ghpvc/?username=wendelschimitz10&label=Profile%20views&color=0e75b6&style=flat" alt="wendelschimitz10" /> 
 
  <br>
