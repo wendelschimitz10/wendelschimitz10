@@ -26,11 +26,6 @@
 <a href="https://www.youtube.com/channel/UCEZgWavfBlTWV-nmxnvdY_g?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCEZgWavfBlTWV-nmxnvdY_g?label=Wendel Dev&style=social"></a>
       
 <br>
-  
-    
-## 🏆 Github Status
-  
-<img src="https://github-readme-stats.vercel.app/api?username=wendelschimitz10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true "/>
    
 ## 👨‍💻 Tech Stack I am Familiar With
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
