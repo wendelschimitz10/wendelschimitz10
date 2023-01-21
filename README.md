@@ -7,7 +7,7 @@
 
   👩‍💻  I'm currently learning programming :rocket:
   <br>
- 💬 Ask me about ... HTML, CSS, JavaScript...
+ 💬 Ask me about ... HTML, CSS, JavaScript, ReactJS, KnockoutJS...
  <br>
 
 <img  width="260" src="https://user-images.githubusercontent.com/98092597/173888205-3b08eb6d-d829-43cc-bf57-e6ba15a3fd9e.jpg"><br>
@@ -17,13 +17,12 @@
  
  ## 📫 How to reach me
 
-<a href="mailto:w10schimitz@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 <a href="https://www.linkedin.com/in/wendel-ccomp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/wendel.ccomp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.facebook.com/wendel.ccomp/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <br>
 <a href="https://github.com/wendelschimitz10"><img src="https://img.shields.io/github/followers/wendelschimitz10?label=follow&style=social"></a>
 <a href="https://www.youtube.com/channel/UCEZgWavfBlTWV-nmxnvdY_g?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCEZgWavfBlTWV-nmxnvdY_g?label=Wendel Dev&style=social"></a>
+<img src="https://img.shields.io/youtube/channel/views/UCEZgWavfBlTWV-nmxnvdY_g?style=social"/>
       
 <br>
    
